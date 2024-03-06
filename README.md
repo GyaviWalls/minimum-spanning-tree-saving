@@ -6,7 +6,6 @@ A rudimentary particularly odd solution proposed for an nxn graph in attempt to 
 ### Advantage:
 Since databases are accessed regularly, the sorting operation requires to be performed only once and thereafter repetitive searches at reduced speeds can be performed.
 
----
 
 ### Disadvantage:
 The algorithm is dependent on the number of vertices instead of the number of edges.
