@@ -1,5 +1,5 @@
-# maximum-hamiltonian-path-saving
-A rudimentary particularly odd solution proposed for an nxn graph in attempt to compute the saved distance when the hamiltonian path is considered
+# minimum spanning tree path saving
+A rudimentary particularly odd solution proposed for an nxn graph in attempt to compute the saved distance when a minimum spanning tree is drawn from the structure
 
 ---
 
